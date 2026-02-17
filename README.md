@@ -15,5 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 ¡Hola! Soy Maximiliano Carlos Lozano Hernández
 
-Hola mi nombre es Max :)
+💻 Estudiante y desarrollador en formación
+🚀 Apasionado por la programación y la tecnología
+📚 Siempre aprendiendo algo nuevo
+
+🚀 Sobre mí
+
+Soy un estudiante enfocado en mejorar mis habilidades en desarrollo de software.
+Me gusta entender cómo funcionan las cosas por dentro y aplicar conceptos como lógica, estructuras de datos y principios físicos en mis proyectos.
+
+Actualmente estoy trabajando en mejorar mis conocimientos en:
+
+🧠 Programación orientada a objetos
+
+📊 Lógica y estructuras de datos
+
+⚙️ Desarrollo de aplicaciones en consola
+🛠️ Buenas prácticas y organización de código
+Lenguajes:
+- C#
+- (Agrega aquí los que uses: Python, c++, c#, niv basico.)
+
+Herramientas:
+- Git
+- GitHub
+- Visual Studio
