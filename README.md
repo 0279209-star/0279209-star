@@ -35,8 +35,7 @@ Actualmente estoy trabajando en mejorar mis conocimientos en:
 ⚙️ Desarrollo de aplicaciones en consola
 🛠️ Buenas prácticas y organización de código
 Lenguajes:
-- C#
-- (Agrega aquí los que uses: Python, c++, c#, niv basico.)
+- Python, c++, c#, niv basico
 
 Herramientas:
 - Git
