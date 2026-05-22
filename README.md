@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **0279209-star/0279209-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +40,7 @@ Lenguajes:
 Herramientas:
 - Git
 - GitHub
-- Visual Studio
+- Python
+- Fast API
+- Swift
+- SQL
